@@ -538,7 +538,6 @@ h3{
 
 
 /*--------Contact Us------------*/
-
 .location{
 	width: 80%;
 	margin: auto;
@@ -571,6 +570,10 @@ h3{
 .contact-us-col div p{
 	padding: 0;
 	color: #0000ff;
+	text-anchor: none;
+}
+.contact-us-col div a{
+	text-decoration: none;
 }
 .contact-us-col div h5{
 	font-size: 20px;
