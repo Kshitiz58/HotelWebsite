@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	widows: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.4),rgba(4,9,30,0.4)),url(images/b.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(images/b.jpg);
 	background-position: center;
 	background-size: cover;
 	position: relative;
@@ -69,8 +69,8 @@ nav img{
 }
 .text-box p{
 	margin: 10px 0 40px;
-	font-size: 14px;
-	color: #fff;
+	font-size: 16px;
+	color: #faeao2;
 }
 .hero-btn{
 	display: inline-block;
